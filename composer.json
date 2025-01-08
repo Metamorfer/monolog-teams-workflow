@@ -1,5 +1,5 @@
 {
-    "name": "Metamorfer/monolog-teams-workflow",
+    "name": "metamorfer/monolog-teams-workflow",
     "description": "Monolog Handler for sending messages to Microsoft Teams channels using the Workflow webhook",
     "type": "library",
     "require": {
